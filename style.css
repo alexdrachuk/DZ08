@@ -1,0 +1,174 @@
+
+.main {
+    background-color: rgb(144, 154, 167);
+    margin: 30px 0px;
+  }
+  
+  .blockl {
+    background-color: rgb(110, 62, 62);
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 5px 5px 5px
+  }
+  
+  .blockr {
+    background-color: rgb(85, 52, 52);
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin: 5px 5px 5px
+  }
+  
+  .blockerl {
+    background-color: rgb(58, 42, 42);
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 5px 5px 5px
+  }
+  
+  .block4nd {
+    float: right;
+    margin-top: 14px;
+    margin-right: 10px;
+  }
+  
+  .block1 {
+    background-color: rgb(78, 43, 43);
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+  }
+  
+  .block2 {
+    background-color: rgb(78, 54, 54);
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+  }
+  
+  .block3 {
+    background-color: rgb(36, 30, 30);
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+  }
+  
+  .block4 {
+    background-color: rgb(26, 23, 23);
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+  }
+  
+  .block2nd {
+    float: left;
+  }
+  
+  .block1l {
+    
+    background-color: rgb(43, 43, 54);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px 5px 5px
+  }
+  
+  .block2r {
+    
+    background-color: rgb(78, 94, 37);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px 5px 5px
+  }
+  
+  .block2rnd {
+    float: right;
+  }
+  
+  .block2_1 {
+    
+    background-color: rgb(85, 72, 52);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px 5px 5px
+  }
+  
+  .block2_2 {
+    
+    background-color: rgb(39, 80, 52);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px 5px 5px
+  }
+  
+  .block3container {
+    margin: auto;
+    width: 200px;
+  }
+  
+  .block3centr {
+    background-color: rgb(30, 42, 54);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px 3px 5px
+    
+  }
+  
+  .blocklitl {
+    display: inline-block;
+  }
+  
+  .blitl1 {
+    background-color: rgb(104, 61, 61);
+    width: 90px;
+    height: 50px;
+    margin: 5px 0px 5px
+  }
+  
+  .blitl2 {
+    background-color: rgb(136, 89, 107);
+    width: 90px;
+    height: 50px;
+    margin: 5px 0px 5px
+  }
+  
+  .block4container {
+    float: right;
+  }
+  
+  .block4rigth {
+    background-color: rgb(29, 35, 41);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px 5px 5px
+  }
+  
+  .block4litl {
+    display: inline-block;
+  }
+  
+  .blitl1_2 {
+    background-color: rgb(97, 57, 57);
+    width: 90px;
+    height: 50px;
+    margin: 5px 5px 5px
+    
+  }
+  
+  .blitl2_2 {
+    background-color: rgb(63, 102, 63);
+    width: 90px;
+    height: 50px;
+    margin: 5px 5px 5px
+  }
+  
+  .clear {
+    clear: both;
+  }
